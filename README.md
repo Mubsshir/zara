@@ -10,7 +10,8 @@ zara can do variety of task like-
 
 [*]. you can ask her about current time.
 
-[*]. Andmany more things will be added  in the future.
+[*]. And many more things will be added  in the future.
 
 How to run-
-command- py zara.py
+command- 
+<py zara.py>
