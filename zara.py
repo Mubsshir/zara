@@ -99,5 +99,17 @@ if __name__=="__main__":
 		elif "who are you" in quary:
 			speak("I'm zara, your personal,assistant, at your service ")
 		
+		elif "what is your name" in quary:
+			speak("My Name is zara")
+		
+		elif "who is your father" in quary:
+			speak("Technically speaking, that'd be Mubasshir Khan. No big deal.")
+		
 		elif 'close' or 'exit' or 'bnd ho ja' in quary:
 			sys.exit()
+		
+		elif "what can you do" in quary:
+			speak("I can help with open variety of websites, play song for you, find info, and more.")
+		
+		else:
+			continue
