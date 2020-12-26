@@ -73,7 +73,6 @@ if __name__=="__main__":
 	clear()
 	wishme()
 	while True:
-		
 		quary=takeCommand().lower()
 		if "wikipedia" in quary:
 			quary.replace("wikipedia",'')
@@ -96,6 +95,9 @@ if __name__=="__main__":
 		elif "the time" in quary:
 			currentTime=datetime.datetime.now().strftime("%H:%M:%S")
 			speak(f"the time is {currentTime}")
+		
+		elif "who are you" in quary:
+			speak("I'm zara, your personal,assistant, at your service ")
 		
 		elif 'close' or 'exit' or 'bnd ho ja' in quary:
 			sys.exit()
