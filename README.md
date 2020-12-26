@@ -1,4 +1,4 @@
-### zara -v0.1
+# zara -v0.1
 Zara is your very own  personal degital assiastant.
 *zara can do variety of task like-*
 
