@@ -1,6 +1,6 @@
-# zara -v0.1
-Zara is your very own  personal degital assiastant.\n
-zara can do variety of task like-
+### zara -v0.1
+Zara is your very own  personal degital assiastant.
+*zara can do variety of task like-*
 
 [*]. Sending Emails.
 
