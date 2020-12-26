@@ -14,4 +14,4 @@ zara can do variety of task like-
 
 How to run-
 command- 
-<py zara.py>
+#py zara.py
